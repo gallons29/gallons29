@@ -9,6 +9,7 @@
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Java/java1.svg"> 
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Git/git1.svg"> 
 </div>
+
 ### Web Dev Stack
 <div style="display: flex;">
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/React/react2.svg"> 
